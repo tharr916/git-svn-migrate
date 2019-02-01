@@ -1,6 +1,8 @@
 ABOUT git-svn-migrate
 ---------------------
 
+forked from JohnAlbin/git-svn-migrate (https://github.com/JohnAlbin/git-svn-migrate)
+
 The git-svn-migrate project is a set of helper scripts to ease the migration of
 Subversion repositories to Git.
 
